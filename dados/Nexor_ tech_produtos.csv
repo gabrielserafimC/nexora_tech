@@ -1,0 +1,31 @@
+﻿id_produto;produto;categoria;preco
+PROD001;Notebook Lenovo IdeaPad 3;Notebooks;3499.90
+PROD002;Notebook Dell Inspiron 15;Notebooks;4299.00
+PROD003;MacBook Air M2 256GB;Notebooks;7999.00
+PROD004;Notebook Asus Vivobook 15;Notebooks;2899.90
+PROD005;Notebook Acer Nitro 5 Gaming;Notebooks;4899.00
+PROD006;Smartphone Samsung Galaxy A54;Smartphones;1799.90
+PROD007;iPhone 14 128GB Apple;Smartphones;4999.00
+PROD008;Smartphone Xiaomi Redmi Note 12;Smartphones;1299.00
+PROD009;Smartphone Motorola Edge 40;Smartphones;2299.90
+PROD010;Samsung Galaxy S23 Ultra;Smartphones;6499.00
+PROD011;Monitor LG 24 Full HD IPS;Monitores;799.90
+PROD012;Monitor Gamer AOC Hero 24 144Hz;Monitores;1199.00
+PROD013;Monitor Samsung Odyssey G30 24;Monitores;1099.90
+PROD014;Monitor Dell 27 4K UHD;Monitores;2499.00
+PROD015;Monitor UltraWide LG 29;Monitores;1349.90
+PROD016;Mouse Sem Fio Logitech M280;Periféricos;89.90
+PROD017;Teclado Mecânico Redragon Kumara;Periféricos;249.90
+PROD018;Combo Teclado e Mouse Logitech MK235;Periféricos;139.90
+PROD019;Mouse Gamer Razer DeathAdder Essential;Periféricos;199.00
+PROD020;Webcam Full HD Logitech C920s;Periféricos;399.90
+PROD021;Mousepad Extra Grande Speed Black;Periféricos;59.90
+PROD022;Teclado Sem Fio Logitech K380;Periféricos;219.90
+PROD023;Suporte Articulado para Monitor;Periféricos;179.90
+PROD024;Headset Gamer HyperX Cloud Stinger;Áudio;279.90
+PROD025;Fone de Ouvido Bluetooth JBL Tune 510BT;Áudio;239.90
+PROD026;AirPods 3ª Geração Apple;Áudio;1499.00
+PROD027;Caixa de Som Bluetooth JBL Flip 6;Áudio;699.90
+PROD028;Microfone Condensador Redragon Seymur;Áudio;189.90
+PROD029;Headphone Bluetooth Sony WH-CH520;Áudio;349.00
+PROD030;Soundbar JBL Cinema SB160 2.1;Áudio;1199.00

@@ -1,0 +1,301 @@
+﻿id_cliente;nome;idade;sexo;cidade;estado;data_cadastro
+CLI000001;Ana Silva;65;Feminino;Jaboatão dos Guararapes;PE;24/04/2024
+CLI000002;Lucas Souza;61;Masculino;Belo Horizonte;MG;04/08/2024
+CLI000003;Maria Silva;23;Masculino;Jaboatão dos Guararapes;PE;15/09/2024
+CLI000004;Letícia Silva;53;Masculino;Fortaleza;CE;28/11/2024
+CLI000005;Amanda Carvalho;32;Feminino;Belo Horizonte;MG;22/05/2024
+CLI000006;João Ferreira;62;Feminino;Campinas;SP;22/05/2024
+CLI000007;Lucas Alves;39;Masculino;Olinda;PE;13/07/2024
+CLI000008;Ana Ribeiro;40;Feminino;Recife;PE;08/01/2025
+CLI000009;Diego Castro;25;Feminino;Olinda;PE;09/10/2024
+CLI000010;Mariana Correia;41;Masculino;Fortaleza;CE;05/02/2024
+CLI000011;Maria Pereira;36;Masculino;Jaboatão dos Guararapes;PE;19/03/2025
+CLI000012;Ana Martins;35;Feminino;Salvador;BA;03/03/2025
+CLI000013;Camila Ferreira;41;Feminino;Jaboatão dos Guararapes;PE;09/12/2024
+CLI000014;Gabriel Oliveira;56;Masculino;Niterói;RJ;08/01/2025
+CLI000015;Beatriz Ferreira;47;Feminino;São Paulo;SP;18/04/2025
+CLI000016;Amanda Pereira;61;Feminino;Recife;PE;27/04/2024
+CLI000017;Maria Costa;43;Feminino;Olinda;PE;18/04/2024
+CLI000018;Rodrigo Costa;31;Feminino;Santos;SP;28/03/2025
+CLI000019;Diego Rodrigues;34;Masculino;Jaboatão dos Guararapes;PE;16/01/2025
+CLI000020;Amanda Castro;34;Feminino;Belo Horizonte;MG;23/07/2024
+CLI000021;Camila Pereira;26;Feminino;Olinda;PE;21/01/2025
+CLI000022;Maria Souza;27;Masculino;Salvador;BA;04/08/2024
+CLI000023;Letícia Oliveira;42;Feminino;Belo Horizonte;MG;27/08/2024
+CLI000024;Bruno Lima;53;Masculino;Salvador;BA;04/01/2025
+CLI000025;Ana Castro;35;Feminino;Olinda;PE;30/05/2024
+CLI000026;Larissa Ferreira;47;Masculino;Fortaleza;CE;24/03/2025
+CLI000027;Gabriel Ramos;29;Masculino;Salvador;BA;01/06/2024
+CLI000028;Bruno Correia;30;Masculino;Campinas;SP;25/01/2025
+CLI000029;Julia Castro;51;Masculino;Belo Horizonte;MG;14/06/2024
+CLI000030;Patricia Silva;25;Feminino;São Paulo;SP;02/05/2024
+CLI000031;Maria Pereira;54;Masculino;Olinda;PE;09/01/2025
+CLI000032;Patricia Oliveira;52;Masculino;Caruaru;PE;03/12/2024
+CLI000033;Patricia Castro;28;Feminino;Niterói;RJ;22/03/2025
+CLI000034;Letícia Carvalho;31;Masculino;Fortaleza;CE;08/06/2024
+CLI000035;Rafael Ribeiro;46;Feminino;Olinda;PE;06/05/2024
+CLI000036;Beatriz Oliveira;39;Masculino;Belo Horizonte;MG;10/10/2024
+CLI000037;Beatriz Teixeira;32;Masculino;Olinda;PE;28/12/2024
+CLI000038;Maria Pereira;22;Masculino;Campinas;SP;06/02/2024
+CLI000039;Bruno Pereira;35;Feminino;Jaboatão dos Guararapes;PE;03/10/2024
+CLI000040;Lucas Teixeira;54;Feminino;Jaboatão dos Guararapes;PE;05/02/2025
+CLI000041;Patricia Carvalho;30;Masculino;Olinda;PE;03/12/2024
+CLI000042;Larissa Ribeiro;45;Feminino;Rio de Janeiro;RJ;18/03/2025
+CLI000043;Maria Souza;21;Feminino;Fortaleza;CE;22/06/2024
+CLI000044;Ana Pereira;30;Masculino;Niterói;RJ;17/08/2024
+CLI000045;Lucas Carvalho;29;Feminino;Rio de Janeiro;RJ;07/05/2024
+CLI000046;Pedro Melo;53;Masculino;Recife;PE;29/11/2024
+CLI000047;Amanda Silva;23;Masculino;Caruaru;PE;27/07/2024
+CLI000048;Patricia Barbosa;31;Feminino;Recife;PE;25/03/2024
+CLI000049;Rafael Silva;42;Feminino;Rio de Janeiro;RJ;26/05/2024
+CLI000050;Larissa Castro;60;Feminino;Caruaru;PE;07/04/2024
+CLI000051;Mariana Alves;21;Masculino;Fortaleza;CE;09/06/2024
+CLI000052;Maria Santos;55;Feminino;Niterói;RJ;15/04/2025
+CLI000053;Bruno Ferreira;21;Masculino;Caruaru;PE;05/02/2024
+CLI000054;Letícia Oliveira;61;Masculino;Santos;SP;02/03/2024
+CLI000055;Rodrigo Pereira;55;Masculino;Belo Horizonte;MG;11/02/2024
+CLI000056;Larissa Teixeira;54;Feminino;São Paulo;SP;14/04/2024
+CLI000057;Fernando Pereira;34;Feminino;Caruaru;PE;09/12/2024
+CLI000058;Mariana Melo;38;Masculino;Recife;PE;22/08/2024
+CLI000059;Letícia Teixeira;24;Masculino;Niterói;RJ;19/04/2024
+CLI000060;Bruno Lima;26;Feminino;Olinda;PE;26/03/2025
+CLI000061;Beatriz Ribeiro;36;Masculino;Rio de Janeiro;RJ;02/03/2025
+CLI000062;Amanda Gomes;57;Masculino;Salvador;BA;22/02/2025
+CLI000063;Amanda Gomes;60;Masculino;Caruaru;PE;15/05/2024
+CLI000064;Ana Souza;65;Masculino;São Paulo;SP;24/05/2024
+CLI000065;Letícia Alves;63;Feminino;Jaboatão dos Guararapes;PE;17/12/2024
+CLI000066;Gabriel Ramos;49;Feminino;Recife;PE;17/02/2024
+CLI000067;Larissa Lima;20;Masculino;Campinas;SP;29/01/2025
+CLI000068;Lucas Lima;28;Feminino;Niterói;RJ;27/12/2024
+CLI000069;Larissa Castro;18;Masculino;Olinda;PE;28/04/2025
+CLI000070;Lucas Castro;20;Feminino;Belo Horizonte;MG;09/10/2024
+CLI000071;Lucas Carvalho;26;Masculino;São Paulo;SP;05/07/2024
+CLI000072;Maria Ribeiro;31;Masculino;Salvador;BA;22/02/2024
+CLI000073;Camila Castro;44;Masculino;Jaboatão dos Guararapes;PE;18/03/2025
+CLI000074;Julia Ferreira;44;Masculino;Caruaru;PE;12/01/2025
+CLI000075;Fernando Carvalho;60;Masculino;São Paulo;SP;22/03/2024
+CLI000076;Ana Martins;20;Feminino;Jaboatão dos Guararapes;PE;12/04/2024
+CLI000077;Diego Ribeiro;37;Masculino;Jaboatão dos Guararapes;PE;13/01/2024
+CLI000078;Carlos Martins;39;Feminino;Olinda;PE;10/05/2025
+CLI000079;Gabriel Ribeiro;59;Feminino;Salvador;BA;07/03/2025
+CLI000080;Amanda Costa;19;Masculino;São Paulo;SP;01/04/2024
+CLI000081;Rodrigo Lima;20;Masculino;Belo Horizonte;MG;10/08/2024
+CLI000082;Camila Costa;45;Masculino;Santos;SP;05/04/2025
+CLI000083;Rodrigo Alves;34;Masculino;Fortaleza;CE;11/08/2024
+CLI000084;João Ramos;52;Masculino;Campinas;SP;08/08/2024
+CLI000085;Pedro Costa;57;Feminino;Salvador;BA;10/03/2025
+CLI000086;Ana Gomes;50;Feminino;Salvador;BA;28/07/2024
+CLI000087;Fernando Martins;62;Feminino;Niterói;RJ;06/03/2024
+CLI000088;Carlos Carvalho;60;Feminino;Salvador;BA;18/01/2025
+CLI000089;Julia Correia;54;Feminino;Santos;SP;07/10/2024
+CLI000090;João Gomes;36;Masculino;Santos;SP;06/02/2025
+CLI000091;Rodrigo Correia;59;Feminino;Rio de Janeiro;RJ;14/08/2024
+CLI000092;Diego Alves;50;Feminino;Fortaleza;CE;27/03/2024
+CLI000093;Pedro Gomes;50;Feminino;Olinda;PE;23/02/2025
+CLI000094;Beatriz Gomes;32;Masculino;Caruaru;PE;13/01/2024
+CLI000095;Maria Pereira;48;Masculino;Rio de Janeiro;RJ;31/07/2024
+CLI000096;Rodrigo Alves;63;Feminino;Rio de Janeiro;RJ;23/07/2024
+CLI000097;Beatriz Rodrigues;59;Masculino;Olinda;PE;02/02/2025
+CLI000098;Larissa Pereira;29;Feminino;Recife;PE;12/10/2024
+CLI000099;Beatriz Souza;47;Masculino;Rio de Janeiro;RJ;07/12/2024
+CLI000100;Bruno Castro;56;Feminino;Rio de Janeiro;RJ;09/11/2024
+CLI000101;Bruno Carvalho;53;Feminino;Caruaru;PE;15/01/2025
+CLI000102;Patricia Melo;34;Masculino;Salvador;BA;21/05/2024
+CLI000103;Bruno Barbosa;58;Masculino;São Paulo;SP;13/08/2024
+CLI000104;Pedro Gomes;33;Feminino;Campinas;SP;12/06/2024
+CLI000105;Amanda Oliveira;26;Masculino;Jaboatão dos Guararapes;PE;15/07/2024
+CLI000106;Lucas Alves;22;Feminino;Santos;SP;18/06/2024
+CLI000107;Amanda Melo;44;Masculino;Jaboatão dos Guararapes;PE;02/03/2025
+CLI000108;Larissa Martins;55;Masculino;Belo Horizonte;MG;13/07/2024
+CLI000109;Patricia Silva;40;Feminino;Santos;SP;12/03/2025
+CLI000110;Larissa Castro;65;Masculino;Rio de Janeiro;RJ;22/04/2024
+CLI000111;Gabriel Carvalho;49;Masculino;Santos;SP;21/06/2024
+CLI000112;Rafael Ferreira;47;Masculino;Belo Horizonte;MG;30/09/2024
+CLI000113;João Martins;55;Masculino;Olinda;PE;25/11/2024
+CLI000114;Larissa Rodrigues;47;Masculino;Recife;PE;13/05/2024
+CLI000115;Rafael Costa;31;Feminino;Campinas;SP;21/06/2024
+CLI000116;Rafael Lima;44;Feminino;Olinda;PE;28/08/2024
+CLI000117;João Castro;21;Feminino;Jaboatão dos Guararapes;PE;28/11/2024
+CLI000118;Pedro Santos;19;Masculino;Jaboatão dos Guararapes;PE;05/03/2025
+CLI000119;João Correia;27;Masculino;Caruaru;PE;30/08/2024
+CLI000120;Ana Teixeira;31;Feminino;Fortaleza;CE;11/05/2024
+CLI000121;Camila Ferreira;56;Masculino;Caruaru;PE;08/05/2025
+CLI000122;Mariana Souza;55;Masculino;São Paulo;SP;21/10/2024
+CLI000123;Rafael Martins;63;Masculino;Olinda;PE;30/10/2024
+CLI000124;Beatriz Souza;62;Feminino;Salvador;BA;03/11/2024
+CLI000125;Ana Teixeira;20;Feminino;Niterói;RJ;07/08/2024
+CLI000126;Camila Oliveira;50;Feminino;Recife;PE;10/03/2025
+CLI000127;Larissa Barbosa;24;Feminino;Campinas;SP;21/11/2024
+CLI000128;Diego Rodrigues;45;Masculino;Fortaleza;CE;24/09/2024
+CLI000129;Gabriel Correia;52;Feminino;Rio de Janeiro;RJ;11/08/2024
+CLI000130;Rodrigo Lima;38;Masculino;Olinda;PE;22/05/2024
+CLI000131;Diego Pereira;47;Feminino;Campinas;SP;15/01/2024
+CLI000132;Patricia Costa;29;Feminino;Jaboatão dos Guararapes;PE;30/06/2024
+CLI000133;Gabriel Costa;35;Feminino;Niterói;RJ;06/01/2024
+CLI000134;Bruno Alves;23;Masculino;Fortaleza;CE;27/07/2024
+CLI000135;Patricia Castro;33;Feminino;Salvador;BA;30/12/2024
+CLI000136;Patricia Melo;19;Masculino;São Paulo;SP;23/04/2024
+CLI000137;Rafael Pereira;37;Feminino;Rio de Janeiro;RJ;10/10/2024
+CLI000138;Bruno Ribeiro;45;Feminino;Campinas;SP;25/12/2024
+CLI000139;Diego Lima;37;Feminino;Jaboatão dos Guararapes;PE;02/03/2024
+CLI000140;Carlos Costa;25;Masculino;Jaboatão dos Guararapes;PE;20/04/2024
+CLI000141;Patricia Lima;64;Feminino;Olinda;PE;02/03/2025
+CLI000142;Carlos Gomes;32;Feminino;Caruaru;PE;03/06/2024
+CLI000143;João Castro;26;Feminino;Recife;PE;13/05/2025
+CLI000144;Maria Castro;36;Masculino;Salvador;BA;20/03/2025
+CLI000145;Patricia Souza;18;Feminino;Rio de Janeiro;RJ;02/09/2024
+CLI000146;Diego Costa;29;Masculino;São Paulo;SP;26/04/2025
+CLI000147;Patricia Souza;22;Feminino;Rio de Janeiro;RJ;07/02/2024
+CLI000148;Rodrigo Santos;27;Masculino;Belo Horizonte;MG;30/04/2025
+CLI000149;Mariana Oliveira;33;Masculino;Niterói;RJ;26/01/2025
+CLI000150;Larissa Correia;56;Masculino;Niterói;RJ;13/07/2024
+CLI000151;Diego Melo;37;Feminino;São Paulo;SP;18/10/2024
+CLI000152;Letícia Santos;57;Masculino;Jaboatão dos Guararapes;PE;16/11/2024
+CLI000153;Carlos Lima;60;Masculino;Caruaru;PE;02/05/2024
+CLI000154;Julia Castro;22;Masculino;Recife;PE;28/07/2024
+CLI000155;Diego Correia;48;Feminino;Recife;PE;28/04/2024
+CLI000156;Mariana Gomes;62;Feminino;Olinda;PE;17/12/2024
+CLI000157;Beatriz Lima;58;Masculino;Santos;SP;28/02/2024
+CLI000158;Amanda Pereira;59;Masculino;São Paulo;SP;27/02/2025
+CLI000159;Lucas Oliveira;21;Masculino;São Paulo;SP;31/10/2024
+CLI000160;Rodrigo Gomes;46;Masculino;Rio de Janeiro;RJ;18/12/2024
+CLI000161;Mariana Martins;35;Feminino;Rio de Janeiro;RJ;11/02/2024
+CLI000162;Letícia Santos;45;Feminino;Belo Horizonte;MG;08/05/2024
+CLI000163;João Oliveira;32;Masculino;Salvador;BA;24/02/2025
+CLI000164;Gabriel Teixeira;20;Masculino;Rio de Janeiro;RJ;22/09/2024
+CLI000165;Diego Lima;29;Feminino;Salvador;BA;20/02/2025
+CLI000166;Patricia Oliveira;48;Feminino;Santos;SP;19/06/2024
+CLI000167;Fernando Souza;28;Feminino;Santos;SP;21/12/2024
+CLI000168;Patricia Gomes;60;Feminino;Niterói;RJ;19/01/2024
+CLI000169;Diego Oliveira;38;Feminino;Campinas;SP;29/02/2024
+CLI000170;Rafael Ramos;18;Feminino;Santos;SP;28/01/2024
+CLI000171;Carlos Ramos;41;Feminino;Salvador;BA;14/08/2024
+CLI000172;Maria Alves;35;Masculino;São Paulo;SP;12/08/2024
+CLI000173;Patricia Souza;19;Masculino;Fortaleza;CE;22/03/2024
+CLI000174;Mariana Castro;18;Feminino;Olinda;PE;25/04/2024
+CLI000175;Ana Melo;25;Masculino;Rio de Janeiro;RJ;22/04/2025
+CLI000176;Mariana Ramos;63;Feminino;Santos;SP;03/03/2025
+CLI000177;Patricia Barbosa;33;Feminino;Niterói;RJ;15/03/2024
+CLI000178;Rafael Alves;56;Masculino;Olinda;PE;21/05/2024
+CLI000179;Larissa Costa;50;Feminino;Recife;PE;24/05/2024
+CLI000180;Mariana Teixeira;55;Feminino;Caruaru;PE;16/08/2024
+CLI000181;Amanda Barbosa;40;Feminino;Niterói;RJ;25/01/2025
+CLI000182;Amanda Martins;47;Feminino;Jaboatão dos Guararapes;PE;23/12/2024
+CLI000183;Beatriz Teixeira;42;Masculino;Santos;SP;23/01/2024
+CLI000184;Fernando Barbosa;63;Feminino;Santos;SP;05/12/2024
+CLI000185;Lucas Barbosa;20;Masculino;Niterói;RJ;09/05/2025
+CLI000186;Rodrigo Costa;24;Feminino;Olinda;PE;26/09/2024
+CLI000187;Diego Silva;64;Masculino;Santos;SP;21/03/2025
+CLI000188;Lucas Oliveira;48;Feminino;Campinas;SP;15/11/2024
+CLI000189;Rafael Oliveira;39;Feminino;Campinas;SP;16/11/2024
+CLI000190;Patricia Castro;20;Masculino;Jaboatão dos Guararapes;PE;19/11/2024
+CLI000191;Mariana Pereira;65;Masculino;Santos;SP;15/05/2025
+CLI000192;Ana Souza;46;Masculino;Fortaleza;CE;02/06/2024
+CLI000193;João Santos;38;Masculino;São Paulo;SP;02/07/2024
+CLI000194;Camila Carvalho;27;Masculino;Niterói;RJ;29/07/2024
+CLI000195;Rodrigo Ferreira;28;Masculino;Olinda;PE;08/11/2024
+CLI000196;Rafael Correia;61;Masculino;Rio de Janeiro;RJ;12/04/2025
+CLI000197;Rodrigo Rodrigues;32;Feminino;Salvador;BA;10/05/2024
+CLI000198;Diego Lima;60;Masculino;Rio de Janeiro;RJ;06/04/2025
+CLI000199;Mariana Castro;28;Masculino;Rio de Janeiro;RJ;28/04/2025
+CLI000200;Camila Teixeira;37;Feminino;Fortaleza;CE;08/05/2024
+CLI000201;Diego Gomes;30;Feminino;Rio de Janeiro;RJ;24/02/2024
+CLI000202;Beatriz Martins;54;Feminino;Belo Horizonte;MG;31/05/2024
+CLI000203;Mariana Silva;60;Feminino;São Paulo;SP;05/01/2024
+CLI000204;Rodrigo Santos;56;Feminino;São Paulo;SP;01/02/2025
+CLI000205;Beatriz Correia;40;Masculino;Salvador;BA;07/04/2024
+CLI000206;Letícia Lima;61;Masculino;Salvador;BA;19/02/2024
+CLI000207;Maria Gomes;46;Masculino;Belo Horizonte;MG;05/07/2024
+CLI000208;Lucas Oliveira;36;Feminino;Fortaleza;CE;31/07/2024
+CLI000209;Julia Alves;26;Feminino;Niterói;RJ;13/09/2024
+CLI000210;Gabriel Ferreira;34;Feminino;São Paulo;SP;17/01/2025
+CLI000211;Fernando Souza;47;Masculino;Caruaru;PE;21/01/2025
+CLI000212;Beatriz Martins;53;Feminino;Olinda;PE;08/02/2025
+CLI000213;Rafael Silva;34;Masculino;Rio de Janeiro;RJ;07/07/2024
+CLI000214;Gabriel Teixeira;42;Feminino;Olinda;PE;11/12/2024
+CLI000215;Beatriz Barbosa;19;Feminino;Belo Horizonte;MG;23/04/2024
+CLI000216;Pedro Melo;62;Feminino;Salvador;BA;28/07/2024
+CLI000217;Ana Rodrigues;20;Masculino;São Paulo;SP;09/09/2024
+CLI000218;Ana Souza;33;Masculino;Santos;SP;20/08/2024
+CLI000219;Camila Castro;44;Masculino;Santos;SP;01/12/2024
+CLI000220;Ana Barbosa;57;Feminino;São Paulo;SP;17/01/2024
+CLI000221;Camila Alves;46;Feminino;Jaboatão dos Guararapes;PE;13/03/2025
+CLI000222;Camila Souza;61;Feminino;Niterói;RJ;06/04/2025
+CLI000223;Camila Santos;43;Feminino;Jaboatão dos Guararapes;PE;10/05/2025
+CLI000224;Ana Melo;23;Masculino;Salvador;BA;23/11/2024
+CLI000225;Letícia Silva;21;Feminino;Jaboatão dos Guararapes;PE;05/03/2024
+CLI000226;Rodrigo Alves;22;Masculino;Belo Horizonte;MG;20/04/2024
+CLI000227;Beatriz Costa;27;Masculino;São Paulo;SP;15/03/2025
+CLI000228;Lucas Rodrigues;52;Feminino;Caruaru;PE;26/02/2024
+CLI000229;João Rodrigues;18;Feminino;Jaboatão dos Guararapes;PE;28/10/2024
+CLI000230;Fernando Silva;29;Feminino;Recife;PE;05/03/2024
+CLI000231;Larissa Ramos;25;Masculino;Rio de Janeiro;RJ;17/08/2024
+CLI000232;Camila Ramos;55;Masculino;Rio de Janeiro;RJ;14/09/2024
+CLI000233;Beatriz Correia;20;Feminino;Rio de Janeiro;RJ;25/11/2024
+CLI000234;João Santos;48;Feminino;Santos;SP;17/12/2024
+CLI000235;Ana Barbosa;63;Feminino;Olinda;PE;05/04/2025
+CLI000236;Pedro Costa;56;Masculino;Olinda;PE;05/03/2024
+CLI000237;Gabriel Correia;58;Feminino;Santos;SP;01/11/2024
+CLI000238;Bruno Gomes;47;Feminino;Olinda;PE;10/02/2025
+CLI000239;Ana Castro;64;Masculino;Santos;SP;19/08/2024
+CLI000240;Beatriz Carvalho;39;Feminino;Santos;SP;31/07/2024
+CLI000241;Ana Costa;45;Feminino;Salvador;BA;10/05/2024
+CLI000242;Camila Rodrigues;61;Feminino;Olinda;PE;16/02/2024
+CLI000243;Pedro Oliveira;45;Masculino;Fortaleza;CE;13/01/2025
+CLI000244;Camila Rodrigues;53;Masculino;Belo Horizonte;MG;04/05/2025
+CLI000245;Amanda Castro;39;Masculino;Santos;SP;30/06/2024
+CLI000246;Larissa Santos;36;Feminino;Campinas;SP;23/02/2024
+CLI000247;Rodrigo Ramos;31;Masculino;Salvador;BA;03/09/2024
+CLI000248;Beatriz Souza;40;Feminino;Olinda;PE;25/01/2025
+CLI000249;Gabriel Teixeira;32;Feminino;Niterói;RJ;13/05/2025
+CLI000250;Letícia Correia;61;Masculino;Belo Horizonte;MG;20/04/2025
+CLI000251;Gabriel Silva;29;Feminino;Fortaleza;CE;25/01/2025
+CLI000252;Mariana Costa;40;Masculino;Caruaru;PE;21/03/2025
+CLI000253;Lucas Teixeira;60;Feminino;Olinda;PE;13/03/2024
+CLI000254;João Oliveira;65;Masculino;Santos;SP;02/08/2024
+CLI000255;Diego Costa;28;Feminino;São Paulo;SP;04/01/2025
+CLI000256;Fernando Teixeira;56;Masculino;Recife;PE;20/03/2024
+CLI000257;Julia Correia;21;Masculino;São Paulo;SP;14/08/2024
+CLI000258;Larissa Barbosa;56;Feminino;Santos;SP;19/05/2024
+CLI000259;Carlos Ramos;25;Feminino;Santos;SP;26/02/2024
+CLI000260;Mariana Teixeira;49;Feminino;Recife;PE;22/04/2024
+CLI000261;Rafael Correia;21;Masculino;Jaboatão dos Guararapes;PE;03/06/2024
+CLI000262;Carlos Rodrigues;34;Feminino;Campinas;SP;02/03/2024
+CLI000263;João Barbosa;65;Feminino;Caruaru;PE;07/03/2024
+CLI000264;Rafael Castro;63;Masculino;Niterói;RJ;13/10/2024
+CLI000265;Camila Oliveira;43;Masculino;Santos;SP;10/01/2024
+CLI000266;Diego Oliveira;38;Feminino;Belo Horizonte;MG;26/07/2024
+CLI000267;Larissa Gomes;25;Feminino;Recife;PE;09/05/2025
+CLI000268;Fernando Ferreira;57;Feminino;Fortaleza;CE;15/04/2025
+CLI000269;Camila Oliveira;45;Masculino;Jaboatão dos Guararapes;PE;11/08/2024
+CLI000270;Rodrigo Martins;51;Masculino;Santos;SP;21/03/2025
+CLI000271;Mariana Costa;32;Feminino;Caruaru;PE;09/02/2024
+CLI000272;Bruno Souza;51;Masculino;Campinas;SP;28/06/2024
+CLI000273;Lucas Pereira;24;Masculino;São Paulo;SP;11/04/2024
+CLI000274;Julia Correia;27;Masculino;Caruaru;PE;02/05/2025
+CLI000275;Patricia Melo;54;Feminino;Salvador;BA;18/04/2025
+CLI000276;Rodrigo Correia;38;Feminino;Caruaru;PE;13/08/2024
+CLI000277;Pedro Barbosa;46;Feminino;São Paulo;SP;29/10/2024
+CLI000278;Maria Ribeiro;50;Masculino;São Paulo;SP;24/08/2024
+CLI000279;Diego Santos;21;Feminino;São Paulo;SP;09/02/2024
+CLI000280;Pedro Correia;56;Feminino;Rio de Janeiro;RJ;24/10/2024
+CLI000281;Amanda Santos;46;Masculino;Campinas;SP;05/11/2024
+CLI000282;Patricia Ramos;27;Masculino;Rio de Janeiro;RJ;22/02/2024
+CLI000283;Fernando Oliveira;50;Masculino;Recife;PE;06/05/2024
+CLI000284;Diego Melo;51;Masculino;Campinas;SP;09/07/2024
+CLI000285;Mariana Martins;44;Feminino;Salvador;BA;02/11/2024
+CLI000286;Maria Costa;22;Feminino;Olinda;PE;12/10/2024
+CLI000287;Rafael Gomes;34;Masculino;Campinas;SP;11/02/2024
+CLI000288;Rodrigo Rodrigues;40;Feminino;Salvador;BA;23/12/2024
+CLI000289;Rafael Rodrigues;56;Masculino;São Paulo;SP;13/10/2024
+CLI000290;Rafael Costa;26;Masculino;Salvador;BA;09/12/2024
+CLI000291;Larissa Ramos;41;Masculino;Campinas;SP;07/06/2024
+CLI000292;Julia Alves;39;Feminino;Jaboatão dos Guararapes;PE;25/04/2024
+CLI000293;Lucas Rodrigues;22;Feminino;Olinda;PE;16/09/2024
+CLI000294;Amanda Ramos;20;Feminino;Belo Horizonte;MG;08/03/2024
+CLI000295;Letícia Martins;27;Masculino;Caruaru;PE;01/03/2025
+CLI000296;Letícia Ferreira;64;Feminino;Recife;PE;29/07/2024
+CLI000297;Camila Pereira;46;Feminino;Fortaleza;CE;05/02/2025
+CLI000298;Diego Pereira;52;Masculino;São Paulo;SP;09/05/2025
+CLI000299;Patricia Alves;41;Feminino;Rio de Janeiro;RJ;28/01/2025
+CLI000300;Mariana Martins;50;Feminino;Caruaru;PE;22/02/2025
